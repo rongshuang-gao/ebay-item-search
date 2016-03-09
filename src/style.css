@@ -1,0 +1,14 @@
+.checkbox-inline{
+  margin-right: 10px;
+}
+.checkbox-inline+.checkbox-inline{
+  margin-left: 0px;
+}
+#output2{
+  margin-left: 0px;
+  padding-left:0px;
+}
+#output1{
+  margin-left: 5px;
+  padding-left:5px;
+}
